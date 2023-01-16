@@ -10,6 +10,7 @@
 /node_modules
 npm-debug.log
 yarn-error.log
+15.1.1
 
 # IDEs and editors
 .idea/
